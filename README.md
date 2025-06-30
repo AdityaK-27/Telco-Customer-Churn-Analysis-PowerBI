@@ -3,6 +3,12 @@ A Power BI project to analyze customer churn using real-world telecom data. Incl
 
 This Power BI project was created to practice and fine-tune key business intelligence and visualization skills by analyzing a telecom dataset to uncover churn patterns.
 
+## 📌 Objective
+To gain hands-on experience building professional dashboards and deliver actionable insights into customer behavior, retention, and churn drivers.
+
+## 📁 Dataset Source
+[Kaggle – Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
+
 ## 📊 Project Features
 - 5-page interactive dashboard
 - KPI metrics: Churn %, Average Monthly Charges, Lifetime Value, etc.
@@ -31,9 +37,4 @@ This Power BI project was created to practice and fine-tune key business intelli
 ## 🎥 Demo Walkthrough
 https://drive.google.com/file/d/1fkqCkG0fLlNQt2NzsGnmLtMdOA9KUX46/view?usp=sharing
 
-## 📁 Dataset Source
-[Kaggle – Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
-
-## 📌 Objective
-To gain hands-on experience building professional dashboards and deliver actionable insights into customer behavior, retention, and churn drivers.
 
